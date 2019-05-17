@@ -32,6 +32,7 @@ public class ReadExcelData {
 	String color;
 	String make;
 	int rowCount = 0;
+	// For logs
 	private static Logger log =  LogManager.getLogger(ReadExcelData.class.getName());
 	
 	
