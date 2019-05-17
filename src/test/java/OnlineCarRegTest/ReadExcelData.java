@@ -76,7 +76,8 @@ public class ReadExcelData {
 	driver.get("https://www.gov.uk/get-vehicle-information-from-dvla");
 	log.info("Website is launched");
 	driver.findElement(By.xpath("//a[contains(@href,'vehicleenquiry.service')]")).click();
-
+	
+	//adding wait
 	WebDriverWait Explicitwait = new WebDriverWait(driver,10); 
 	Explicitwait.until(ExpectedConditions.visibilityOfElementLocated(By.id("Vrm")));
 	
