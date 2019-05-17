@@ -1,0 +1,24 @@
+03:42:21.306 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting make of the GK05DMZ car
+03:42:22.771 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting color of the GK05DMZcar
+03:42:24.776 [main] INFO  OnlineCarRegTest.ReadExcelData - Saving screenshot of car GK05DMZ
+03:42:24.823 [main] DEBUG OnlineCarRegTest.ReadExcelData - Calling to print File name, size of the file, extenstion
+03:45:43.206 [main] DEBUG OnlineCarRegTest.ReadExcelData - Setting up browser driver
+03:45:52.358 [main] DEBUG OnlineCarRegTest.ReadExcelData - launching the website
+03:46:00.062 [main] INFO  OnlineCarRegTest.ReadExcelData - Website is launched
+03:46:14.862 [main] DEBUG OnlineCarRegTest.ReadExcelData - Inspecting the car Registration box
+03:46:19.158 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting make of the PJ05XAT car
+03:46:20.723 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting color of the PJ05XATcar
+03:46:22.805 [main] INFO  OnlineCarRegTest.ReadExcelData - Saving screenshot of car PJ05XAT
+03:46:22.866 [main] DEBUG OnlineCarRegTest.ReadExcelData - launching the website
+03:46:24.924 [main] INFO  OnlineCarRegTest.ReadExcelData - Website is launched
+03:46:26.595 [main] DEBUG OnlineCarRegTest.ReadExcelData - Inspecting the car Registration box
+03:46:29.129 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting make of the BT65EEP car
+03:46:30.618 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting color of the BT65EEPcar
+03:46:32.655 [main] INFO  OnlineCarRegTest.ReadExcelData - Saving screenshot of car BT65EEP
+03:46:32.706 [main] DEBUG OnlineCarRegTest.ReadExcelData - launching the website
+03:46:33.942 [main] INFO  OnlineCarRegTest.ReadExcelData - Website is launched
+03:46:35.153 [main] DEBUG OnlineCarRegTest.ReadExcelData - Inspecting the car Registration box
+03:46:37.137 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting make of the GK05DMZ car
+03:46:38.577 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting color of the GK05DMZcar
+03:46:40.570 [main] INFO  OnlineCarRegTest.ReadExcelData - Saving screenshot of car GK05DMZ
+03:46:40.598 [main] DEBUG OnlineCarRegTest.ReadExcelData - Calling to print File name, size of the file, extenstion

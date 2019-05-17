@@ -1,0 +1,6 @@
+03:42:07.656 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting make of the BT65EEP car
+03:42:09.165 [main] INFO  OnlineCarRegTest.ReadExcelData - Asserting color of the BT65EEPcar
+03:42:11.223 [main] INFO  OnlineCarRegTest.ReadExcelData - Saving screenshot of car BT65EEP
+03:42:11.270 [main] DEBUG OnlineCarRegTest.ReadExcelData - launching the website
+03:42:15.266 [main] INFO  OnlineCarRegTest.ReadExcelData - Website is launched
+03:42:18.473 [main] DEBUG OnlineCarRegTest.ReadExcelData - Inspecting the car Registration box
