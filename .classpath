@@ -24,7 +24,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Padai/apache-log4j-2.11.2-bin/log4j-api-2.11.2.jar"/>
-	<classpathentry kind="lib" path="C:/Padai/apache-log4j-2.11.2-bin/log4j-core-2.11.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

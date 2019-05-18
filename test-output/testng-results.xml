@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-05-17T02:45:43Z" name="Default suite" finished-at="2019-05-17T02:46:40Z" duration-ms="57490">
+  <suite started-at="2019-05-18T02:16:11Z" name="Default suite" finished-at="2019-05-18T02:17:36Z" duration-ms="84106">
     <groups>
     </groups>
-    <test started-at="2019-05-17T02:45:43Z" name="Default test" finished-at="2019-05-17T02:46:40Z" duration-ms="57490">
+    <test started-at="2019-05-18T02:16:11Z" name="Default test" finished-at="2019-05-18T02:17:36Z" duration-ms="84106">
       <class name="OnlineCarRegTest.ReadExcelData">
-        <test-method signature="dvla()[pri:0, instance:OnlineCarRegTest.ReadExcelData@3eeb318f]" started-at="2019-05-17T02:45:43Z" name="dvla" finished-at="2019-05-17T02:46:40Z" duration-ms="57415" status="PASS">
+        <test-method signature="dvla()[pri:0, instance:OnlineCarRegTest.ReadExcelData@18025ced]" started-at="2019-05-18T02:16:12Z" name="dvla" finished-at="2019-05-18T02:17:35Z" duration-ms="83829" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dvla -->
-        <test-method signature="readExcelProperties()[pri:0, instance:OnlineCarRegTest.ReadExcelData@3eeb318f]" started-at="2019-05-17T02:46:40Z" name="readExcelProperties" finished-at="2019-05-17T02:46:40Z" duration-ms="22" status="PASS">
+        <test-method signature="readExcelProperties()[pri:0, instance:OnlineCarRegTest.ReadExcelData@18025ced]" started-at="2019-05-18T02:17:35Z" name="readExcelProperties" finished-at="2019-05-18T02:17:36Z" duration-ms="188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readExcelProperties -->

@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>Login</groupId>
-  <artifactId>MavenCucumberTestNg</artifactId>
+  <groupId>OnlineCarRegTest</groupId>
+  <artifactId>OnlineTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>MavenCucumberTestNg</name>
+  <name>OnlineTest</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -65,6 +65,17 @@
 	    <artifactId>cucumber-java</artifactId>
 	    <version>4.3.0</version>
 	</dependency>
+	<dependency>
+	    <groupId>org.apache.logging.log4j</groupId>
+	    <artifactId>log4j-core</artifactId>
+    	<version>2.11.2</version>
+	</dependency>
+	<dependency>
+	    <groupId>org.apache.logging.log4j</groupId>
+	    <artifactId>log4j-api</artifactId>
+	    <version>2.11.2</version>
+	</dependency>
+	
 
   </dependencies>
 </project>
