@@ -38,7 +38,7 @@ public class ReadExcelData {
 	
 	public void readData(int a,int b, int c) throws IOException {
 		//To read Excel data 
-		obj = new ReadExcelxls("C:\\TestData\\CarDetails.xls");
+		obj = new ReadExcelxls("./CarDetails.xls");
 		ExcelData = obj.getData(a, b, c);
 		//rowCount = obj.getRowCount();
 		
